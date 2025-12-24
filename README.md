@@ -14,7 +14,7 @@ Require dependency installation:
 
     4) ng-bootstrap
 
-Required a firebase account.
+Required a firebase account for creating the storage.
 
 Requires Reference Links:
 
